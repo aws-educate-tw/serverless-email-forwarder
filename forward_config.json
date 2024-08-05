@@ -1,0 +1,9 @@
+{
+    "dev@example.com": {
+      "recipients": [
+        "dev1@gmail.com",
+        "dev2@gmail.com"
+      ],
+      "sender_local_part": "dev"
+    }
+  }
